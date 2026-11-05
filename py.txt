@@ -1,8 +1,109 @@
-variables  ✅
-typecasting ✅
+1.Python fundamentals:
+- variables
+- typecasting
+- user input
+- comments
+- escape sequences
+- print statement
+- operators
+
+2.Control flow:
+- if-elif-else (conditional statements)
+- match case
+- Loops:
+    - for 
+    - while
+
+    -statements:
+        - break 
+        - continue
+        - pass
+
+3.String:
+- String
+- slicing 
+- indexing 
+- method
+- function
+- formatting
+- f-String
 
 
+4.Function and modules
+- function
+- function argument
+- return values
+- lambda function
+- recursion
+- modules and pip 
+- variable scope 
+- docstring
 
+
+5.OOPS:
+- OOPS
+- classes 
+- object
+- constructor
+- instance
+- class attributes
+- inheritance 
+- polumorphism
+- method overriding and operator overloading
+
+
+6.Advance python concept:
+- decorators
+- getters 
+- setters
+- static method
+- class method
+- magic method
+- dunder method
+
+
+7.file I/O:
+- file i/O
+- read
+- write
+- append
+- OS modules
+- shutil
+- modules
+- creating command line utilities
+
+8.working with external libraries:
+- virtual envinment 
+- package mangement
+- requests module (working with APIs)
+- regular expression
+- multithreading
+
+
+9. LLM APIs
+
+
+10.project:
+- simple calculator
+- millinoire game
+- PDF merger
+- news app 
+- drink water reminder 
+- virtual assistant
+- file organizer
+- QR code generator 
+- reel generator
+
+
+11. Web application (using flask)
+- flask 
+- flask app
+- static site
+- serving
+- handing forms
+- jinja 2 
+- template inheritance
+- 
 
 
 
